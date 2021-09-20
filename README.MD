@@ -2,8 +2,8 @@
 
 ** HTML/CSS/BOOTSTRAP
 
-![plot](/img/1.jpeg)
+![Optional Text](/img/1.jpg)
 
-![plot](/img/2.jpeg)
+![Optional Text](/img/2.jpg)
 
-![plot](/img/3.jpeg)
+![Optional Text](/img/3.jpg)
